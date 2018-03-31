@@ -54,6 +54,7 @@ Luego de realizar la investigacion, como ejercicio para sintentizar la inforamci
 Se agruparon los problemas en las siguientes categorías: Consistencia de la competencia, comodidad, ayuda, confianza, tiempo, horarios, ahorro, información, precio, seguridad, cambios/cancelar, plataforma y otros. Nos enfocamos en tres puntos que se repetían más en la problemática: **tiempo, información y horarios** 
 
 ### User Personas - Arquetipos
+Recopilada y sintetizada la información, y entendiendo las principales molestias de los pasajeros a la hora de viajar en bus se desarrollaron 3 User Persona (Adriana Almeida: turista | Juan Pablo Aguilar: Padre de familia | Antonia Carrasco: Estudiante) resaltando distintas dificultades que viven nuestros usuarios. Este ejercicio ayudó a identificar nuevos problemas y a comprender de que manera impactan en la vida de los usuarios y en su estado de ánimo.
 
 
 ## Storytelling
