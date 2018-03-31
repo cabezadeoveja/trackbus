@@ -58,8 +58,7 @@ Se agruparon los problemas en las siguientes categorías: Consistencia de la com
 ### User Personas - Arquetipos
 Recopilada y sintetizada la información, y entendiendo las principales molestias de los pasajeros a la hora de viajar en bus se desarrollaron 3 User Persona (Adriana Almeida: turista | Juan Pablo Aguilar: Padre de familia | Antonia Carrasco: Estudiante) resaltando distintas dificultades que viven nuestros usuarios. Este ejercicio ayudó a identificar nuevos problemas y a comprender de que manera impactan en la vida de los usuarios y en su estado de ánimo.
 
-
-![captura de pantalla de 2018-02-05 11-07-48](https://user-images.githubusercontent.com/32286870/38168474-6df27146-3523-11e8-87aa-ca497356236e.png)
+![bus7](https://user-images.githubusercontent.com/32286870/38168498-2be991ac-3524-11e8-8a8e-885619289c9d.png)
 
 ## Storytelling
 Había una vez una estudiante universitaria que estaba esperando el bus de Viña a Santiago de Chile. Es una pasajera frecuente, que viaja para estudiar. Actualmente los problemas recurrentes son que no puede llegar a tiempo a clases por el retraso de los buses, el atochamiento de vehiculos y la alza inesperada de pasajes. Esto es importante porque tiene que viajar todos los días, porque es un usuario frecuente, y el llegar tarde recurrentemente, habla mal de ella como futura profesional. El insight es la frustración que siente la estudiante cuando el bus se retrasa y nadie le informa nada y la molestia de llegar tarde recurrentemente siendo que ella siempre llega a la hora al terminal. La posible solución sería que a la estudiante le llegará una notificación que le avise cuando el bus se retrase y que a los choferes de buses se les de incentivos (bonos) cada vez que cumplan con los horarios estipulados de salida y llegada. Así pasajeros y choferes felices.
