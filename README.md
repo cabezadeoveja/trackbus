@@ -33,11 +33,13 @@ Posteriormente se realizaron entrevistas a pasajeros en el Terminal de Villa Ale
 ### Research Cuantitativo
 
 1. **Benchmark** 
+
 Análisis competitivos y comparativos de los principales empresas de buses de chile y el extranjero. Tomando en cuenta 2 áreas, la venta de pasajes online y el track del viaje. Se analizó su contenido, funcionalidad y opinión de sus usuarios, evaluando principalmente: si era fácil de navegar, tenía información clara, si era una plataforma web o aplicación móvil.
 
 ![bus4](https://user-images.githubusercontent.com/32286870/38166898-1f0806d4-3502-11e8-920b-95be7a6e1723.png)
 
 2. **Encuestas e Identificación de reclamos**
+
 Se realizaron encuestas en grupos de viajeros y de empresas de buses, con el fin de entender los motivos por los que más viaja la gente, cuáles son las cosas que más les frustran a la hora de viajar en bus. También se revisaron los principales reclamos en redes sociales y en Sernac, en la sección transporte terrestre de pasajeros.
 
 Identificando que existe un gran número de personas que viaja diariamente por trabajo y estudio, que los reclamos más frecuentes en intenet son debido al alza de los pasajes en epocas de vacaciones o feriados, que otro reclamo que se repite bastante es el mal estado de los buses, mal trato de parte del personal de éstos y desinformación por retraso de buses.
