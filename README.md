@@ -60,5 +60,9 @@ Recopilada y sintetizada la información, y entendiendo las principales molestia
 
 ![bus7](https://user-images.githubusercontent.com/32286870/38168498-2be991ac-3524-11e8-8a8e-885619289c9d.png)
 
+## Customer Journey Map
+
+Ya definido un problema específico para abordar se definió la experiencia del usuario al momento de viajar en bus, y asi poder identificar los puntos críticos o frustración de un cliente, además de vacíos en el servicio.
+
 ## Storytelling
 Había una vez una estudiante universitaria que estaba esperando el bus de Viña a Santiago de Chile. Es una pasajera frecuente, que viaja para estudiar. Actualmente los problemas recurrentes son que no puede llegar a tiempo a clases por el retraso de los buses, el atochamiento de vehiculos y la alza inesperada de pasajes. Esto es importante porque tiene que viajar todos los días, porque es un usuario frecuente, y el llegar tarde recurrentemente, habla mal de ella como futura profesional. El insight es la frustración que siente la estudiante cuando el bus se retrasa y nadie le informa nada y la molestia de llegar tarde recurrentemente siendo que ella siempre llega a la hora al terminal. La posible solución sería que a la estudiante le llegará una notificación que le avise cuando el bus se retrase y que a los choferes de buses se les de incentivos (bonos) cada vez que cumplan con los horarios estipulados de salida y llegada. Así pasajeros y choferes felices.
