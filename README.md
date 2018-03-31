@@ -26,9 +26,11 @@ Primero se realizó una observación contextual dentro de los terminales de buse
 - Los pasajeros que esperaban abordar el bus miraban aburridos en todas las direcciones o estan pegados mirando su celular.
 
 ![bus1](https://user-images.githubusercontent.com/32286870/38166615-03032aae-34fd-11e8-9552-716703546688.png)
+![bus2](https://user-images.githubusercontent.com/32286870/38166725-e9f3ea6a-34fe-11e8-9661-5b7cb111f476.png)
 
 Posteriormente se realizaron entrevistas a pasajeros en el Terminal de Villa Alemana y 4 terminales de la comuna de Santiago: Terminal Alameda, Terminal San Borja, Pájaritos, Terminal Los Héroes. Esto con el objetivo de identificar posibles problemas durante todo el proceso de viaje, esto quiere decir desde la hora de decidir donde viajar, al momento de comprar el ticket, llegar al terminal,encontrar el subir al bus y hasta llegar a destino. Para poder conocer mejor las necesidadesde nuestros usuarios y resolver sus problemas de manera óptima.
 
+![bus3](https://user-images.githubusercontent.com/32286870/38166770-ab666bf0-34ff-11e8-9d8e-c7ce01c44cac.png)
 
 ## Storytelling
 Había una vez una estudiante universitaria que estaba esperando el bus de Viña a Santiago de Chile. Es una pasajera frecuente, que viaja para estudiar. Actualmente los problemas recurrentes son que no puede llegar a tiempo a clases por el retraso de los buses, el atochamiento de vehiculos y la alza inesperada de pasajes. Esto es importante porque tiene que viajar todos los días, porque es un usuario frecuente, y el llegar tarde recurrentemente, habla mal de ella como futura profesional. El insight es la frustración que siente la estudiante cuando el bus se retrasa y nadie le informa nada y la molestia de llegar tarde recurrentemente siendo que ella siempre llega a la hora al terminal. La posible solución sería que a la estudiante le llegará una notificación que le avise cuando el bus se retrase y que a los choferes de buses se les de incentivos (bonos) cada vez que cumplan con los horarios estipulados de salida y llegada. Así pasajeros y choferes felices.
