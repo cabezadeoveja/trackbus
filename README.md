@@ -44,9 +44,17 @@ Se realizaron encuestas en grupos de viajeros y de empresas de buses, con el fin
 
 Identificando que existe un gran número de personas que viaja diariamente por trabajo y estudio, que los reclamos más frecuentes en intenet son debido al alza de los pasajes en epocas de vacaciones o feriados, que otro reclamo que se repite bastante es el mal estado de los buses, mal trato de parte del personal de éstos y desinformación por retraso de buses.
 
-![bus5](https://user-images.githubusercontent.com/32286870/38167117-6e622e7c-3506-11e8-92e0-038abff5b8cc.png)
+![bus5](https://user-images.githubusercontent.com/32286870/38167232-50d68734-3508-11e8-86f7-3d15cd37908e.png)
 
 ## Sintesis y definición
+
+### Afinity Map - Diagrama de Afinidad
+Luego de realizar la investigacion, como ejercicio para sintentizar la inforamción y poder obtener nuevos hallazgos se realizó un brainstorming como equipo de todos los conceptos que nos parecian relevantes, ya sea de las entrevistas, encuestas, paginas de reclamos, etc. Para posteriormente agruparlos segun afinidad y similitud creando un Affinity Map.
+
+Se agruparon los problemas en las siguientes categorías: Consistencia de la competencia, comodidad, ayuda, confianza, tiempo, horarios, ahorro, información, precio, seguridad, cambios/cancelar, plataforma y otros. Nos enfocamos en tres puntos que se repetían más en la problemática: **tiempo, información y horarios** 
+
+### User Personas - Arquetipos
+
 
 ## Storytelling
 Había una vez una estudiante universitaria que estaba esperando el bus de Viña a Santiago de Chile. Es una pasajera frecuente, que viaja para estudiar. Actualmente los problemas recurrentes son que no puede llegar a tiempo a clases por el retraso de los buses, el atochamiento de vehiculos y la alza inesperada de pasajes. Esto es importante porque tiene que viajar todos los días, porque es un usuario frecuente, y el llegar tarde recurrentemente, habla mal de ella como futura profesional. El insight es la frustración que siente la estudiante cuando el bus se retrasa y nadie le informa nada y la molestia de llegar tarde recurrentemente siendo que ella siempre llega a la hora al terminal. La posible solución sería que a la estudiante le llegará una notificación que le avise cuando el bus se retrase y que a los choferes de buses se les de incentivos (bonos) cada vez que cumplan con los horarios estipulados de salida y llegada. Así pasajeros y choferes felices.
