@@ -35,7 +35,12 @@ Posteriormente se realizaron entrevistas a pasajeros en el Terminal de Villa Ale
 1. **Benchmark** 
 Análisis competitivos y comparativos de los principales empresas de buses de chile y el extranjero. Tomando en cuenta 2 áreas, la venta de pasajes online y el track del viaje. Se analizó su contenido, funcionalidad y opinión de sus usuarios, evaluando principalmente: si era fácil de navegar, tenía información clara, si era una plataforma web o aplicación móvil.
 
-![bus4](https://user-images.githubusercontent.com/32286870/38166850-17c030a0-3501-11e8-97f0-ef5c81973a5e.png)
+![bus4](https://user-images.githubusercontent.com/32286870/38166898-1f0806d4-3502-11e8-920b-95be7a6e1723.png)
+
+2. **Encuestas e Identificación de reclamos**
+Se realizaron encuestas en grupos de viajeros y de empresas de buses, con el fin de entender los motivos por los que más viaja la gente, cuáles son las cosas que más les frustran a la hora de viajar en bus. También se revisaron los principales reclamos en redes sociales y en Sernac, en la sección transporte terrestre de pasajeros.
+
+Identificando que existe un gran número de personas que viaja diariamente por trabajo y estudio, que los reclamos más frecuentes en intenet son debido al alza de los pasajes en epocas de vacaciones o feriados, que otro reclamo que se repite bastante es el mal estado de los buses, mal trato de parte del personal de éstos y desinformación por retraso de buses.
 
 ## Storytelling
 Había una vez una estudiante universitaria que estaba esperando el bus de Viña a Santiago de Chile. Es una pasajera frecuente, que viaja para estudiar. Actualmente los problemas recurrentes son que no puede llegar a tiempo a clases por el retraso de los buses, el atochamiento de vehiculos y la alza inesperada de pasajes. Esto es importante porque tiene que viajar todos los días, porque es un usuario frecuente, y el llegar tarde recurrentemente, habla mal de ella como futura profesional. El insight es la frustración que siente la estudiante cuando el bus se retrasa y nadie le informa nada y la molestia de llegar tarde recurrentemente siendo que ella siempre llega a la hora al terminal. La posible solución sería que a la estudiante le llegará una notificación que le avise cuando el bus se retrase y que a los choferes de buses se les de incentivos (bonos) cada vez que cumplan con los horarios estipulados de salida y llegada. Así pasajeros y choferes felices.
