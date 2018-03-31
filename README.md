@@ -30,7 +30,7 @@ Primero se realizó una observación contextual dentro de los terminales de buse
 
 Posteriormente se realizaron entrevistas a pasajeros en el Terminal de Villa Alemana y 4 terminales de la comuna de Santiago: Terminal Alameda, Terminal San Borja, Pájaritos, Terminal Los Héroes. Esto con el objetivo de identificar posibles problemas durante todo el proceso de viaje, esto quiere decir desde la hora de decidir donde viajar, al momento de comprar el ticket, llegar al terminal,encontrar el subir al bus y hasta llegar a destino. Para poder conocer mejor las necesidadesde nuestros usuarios y resolver sus problemas de manera óptima.
 
-![bus3](https://user-images.githubusercontent.com/32286870/38166770-ab666bf0-34ff-11e8-9d8e-c7ce01c44cac.png)
+![bus4](https://user-images.githubusercontent.com/32286870/38166850-17c030a0-3501-11e8-97f0-ef5c81973a5e.png)
 
 ### Research Cuantitativo
 
