@@ -58,11 +58,17 @@ Se agruparon los problemas en las siguientes categorías: Consistencia de la com
 ### User Personas - Arquetipos
 Recopilada y sintetizada la información, y entendiendo las principales molestias de los pasajeros a la hora de viajar en bus se desarrollaron 3 User Persona (Adriana Almeida: turista | Juan Pablo Aguilar: Padre de familia | Antonia Carrasco: Estudiante) resaltando distintas dificultades que viven nuestros usuarios. Este ejercicio ayudó a identificar nuevos problemas y a comprender de que manera impactan en la vida de los usuarios y en su estado de ánimo.
 
-![bus7](https://user-images.githubusercontent.com/32286870/38168498-2be991ac-3524-11e8-8a8e-885619289c9d.png)
+![bus7](https://user-images.githubusercontent.com/32286870/38168580-c7cdbd4e-3526-11e8-9ea4-3ba9df32d4cb.png)
 
-## Customer Journey Map
-
+### Customer Journey Map
 Ya definido un problema específico para abordar se definió la experiencia del usuario al momento de viajar en bus, y asi poder identificar los puntos críticos o frustración de un cliente, además de vacíos en el servicio.
+
+![bus8](https://user-images.githubusercontent.com/32286870/38168585-edc02e74-3526-11e8-8b82-e6c94396cd90.png)
+
+Luego de este ejercicio pudimos identificar que el hecho de que el bus llegue atrasado en reiteradas veces produce frustración y angustia en el usuario:
+- Angustia por no saber por qué su bus se retrasó
+- Llegar tarde a sus compromisos
+- Que hablen mal de ella como futura profesional
 
 ## Storytelling
 Había una vez una estudiante universitaria que estaba esperando el bus de Viña a Santiago de Chile. Es una pasajera frecuente, que viaja para estudiar. Actualmente los problemas recurrentes son que no puede llegar a tiempo a clases por el retraso de los buses, el atochamiento de vehiculos y la alza inesperada de pasajes. Esto es importante porque tiene que viajar todos los días, porque es un usuario frecuente, y el llegar tarde recurrentemente, habla mal de ella como futura profesional. El insight es la frustración que siente la estudiante cuando el bus se retrasa y nadie le informa nada y la molestia de llegar tarde recurrentemente siendo que ella siempre llega a la hora al terminal. La posible solución sería que a la estudiante le llegará una notificación que le avise cuando el bus se retrase y que a los choferes de buses se les de incentivos (bonos) cada vez que cumplan con los horarios estipulados de salida y llegada. Así pasajeros y choferes felices.
